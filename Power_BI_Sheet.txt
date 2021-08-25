@@ -1,0 +1,119 @@
+
+PowerBI
+
+PowerBI------
+Dashboard-1
+
+https://app.powerbi.com/groups/me/reports/33750d08-eb14-4a1f-a8fa-2d57917c2b08/ReportSection
+
+Dashboard-2
+
+https://app.powerbi.com/groups/me/reports/9fd97030-b2c1-4d3e-a9cc-8850629f3702/ReportSectionc8cfa4b01370b00f0c0b
+
+
+
+
+
+
+PowerBI
+25/08/21
+----------------------------------------------------
+On the basis of --Query we can perform Operation --
+
+--***M Query***----------
+----------------------------------------------------
+Open PowerBI Desktop
+
+Home
+Get data
+upload file
+Select Sheet
+=>Transform data
+Home=>remove table(other then first column)---select first column---remove other option choose
+Add Columns=>add duplicates-----(Means Perform Some Operation)
+Transform=>Format=>Upper/Lower
+
+View=>Advance Editor ----[see Query]
+copy query(**)
+done
+
+Go to home =>New Source=>Blank Query
+View=>Advance editor
+=>Query....Remove.....Their Allready Query
+=>Paste copied Query(**)
+Done
+--See...Applied Step.....See table Automatically Here
+--------------------------------------
+
+
+
+Query--See--Retriving Back
+-----------------------------------------------------------------------
+Sheet--- how to edit and Query--Means tables add copy query--paste see--
+----------------------------------------------------------------------
+=Go to Get Data
+=Upload
+=select sheet
+Transform Data
+
+
+=Add column
+=Custom Column
+---Select (Custom=>Replace ....next year)
+---Go to query(=(Write here ...Date.Isnextyear)....as per custom mention here)
+---Custom Column formula ...select...then open ( bracket click on Available table....close)bracket
+=OK
+=New_column right click ...see true false make changes....
+
+=Go to View=>Advance Editor
+=Copy Query
+=Home=>New Source =>Blank Query
+=>Paste 
+=Ok
+=>Here we can see tables
+------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+Min,Max,Average
+-----------------------------------------------------------------
+Go to PowerBI Desktop
+
+=>Report----(means Main Sheet of powerBI)
+
+Get Data
+
+load Data 
+
+Upload
+
+Load Sheet
+
+Modelling
+
+*New_Columns* Click------
+
+Specify.....(MIN,MAX,AVG)....
+
+As per requirement write...
+Ex.=>For Minimum=> ( min_Column = MIN(Sheet1[price])  /Sheeping_Min = MIN('Sheet1 (4)'[Shipping Cost]) )
+     For Maximum=> ( Max_Column = MAX('Sheet1 (5)'[Profit]) / Shipping_Max = MAX('Sheet1 (4)'[Shipping Cost]) )
+     For COUNT => ( Count_Column = COUNT('Sheet1 (4)'[Profit])  ) 
+     For SUM => ( Sum_Column = SUM(Sheet1[floors]) )
+
+
+Ok/Enter 
+
+go to Data ...(Left side 2nd option.......Everytime check data as per any operation Columns are added or not) 
+
+See New tables are directly added....On Data Sheet....As per requirement.
+
+Go to model (left side 3 option ...Choose 3rd )
+
+Connect Tables one by one .......So Completed
+
+---------------------------------------------------------------------------------------------------
+
+
