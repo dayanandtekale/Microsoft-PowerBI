@@ -1,0 +1,82 @@
+---------------------------------------------------------------------------------------------
+
+Connection Between Tables with the help of PowerBI
+
+---------------------------------------------------------------------------------------------
+Go to PowerBI Desktop
+Open
+Report
+Home
+Go to Get Data
+Select Data (CSV,Excel.....)
+Select sheet
+Load Data 
+Ok
+
+Then Go to Data
+--Left side Second Option
+Check once Data Is uploaded or not
+Analyze the Data 
+-Columns and Table 
+-How can we relate them
+
+go to Model
+-Left side Third option
+
+Right side we can see fields
+-Uploaded data columns are there 
+-Means Data is uploded and showing in our report sheet
+
+As per connection/Relation Drag and Drop the Columns from field
+
+Then We can see the Sheet1/sheet2/etc .....
+-Tables are created
+
+Then tables having some Columns
+-We can connect Sheet1 columns to Sheet2 Columns
+-So Just drag from 1 to the another table we can Drop
+-Then we will get Another page
+
+Create Relationship
+Select Sheet/Table
+Then See the Checkbox
+Then select
+Cardinality
+Cross Filter Direction...(As per Requirement)
+OK
+
+Then We can see the As per selected Connection and values
+Table will be connected properlly
+-So Many to many
+ -One to many
+ -One to one
+ -Many to One ...We can select as per requirement
+ -For these are in cardinality and Cross filter Direction Part
+
+In Report we can see the Tables are connected
+
+Go to the Report(Left side first one)
+
+In Report:
+ -We can see the data is prasent on right side...[Fields]
+ -As per connectivity and Relationship 
+ -Drag and Drop the Data Fields Tables
+
+Here we can Analyze the relationship between the Columns from the different tables/Sheet
+We can able to Analyze or making relationship between Table with the help of PowerBI 
+
+             -----------**-----------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
