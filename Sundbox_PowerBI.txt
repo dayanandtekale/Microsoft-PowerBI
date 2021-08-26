@@ -1,0 +1,92 @@
+Power-BI
+
+Develop PowerBi using Sandbox
+
+Embedded power BI API:
+
+Link:
+
+ Sandbox tool link:    Power BI Playground - Developer Sandbox
+
+  https://playground.powerbi.com/dev-sandbox
+
+
+Sample Demo
+
+let-All operation
+in-Last operation
+
+see the code 
+Analyze one by one line 
+make some changes
+
+navigation Drag and Drop
+run
+see
+with respect to changed page 
+
+Get visuals Drag and Drop
+run
+see changes  
+
+
+page event also try
+run
+see visualization
+
+
+go to YTD categeory
+Sentiment also....#on down these option 
+
+see
+Visualization
+
+go with otherising
+
+create otherizing....Drag and drop
+Run
+See Visualization
+
+
+one by one Visual try 
+see the diffrence and Visualization 
+We can see here visualization types and other all informationn
+
+
+-------------------------------------------------------------------------
+Making use of quick measure calculate sum, Average, percentage 
+difference of covid data
+Steps:
+
+Go to powerBiDesktop
+Upload data
+then
+Modelling
+Quick measure
+fill the sheet calculation
+Base value
+Categeory
+Drag and Drop from Data sheet uploaded data showing on same page -Right side
+then ok
+-See the Calculated fields are there
+-Drag any visualization
+-We Will get quick output on the basis of  Calculation
+-We can visualize the Chart directly from here
+-we will get output
+-We can Calculate Many fields with the help of data
+-This is how to calculate the Some Fields
+
+We can visualize the Chart directly from here
+we will get output
+------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
